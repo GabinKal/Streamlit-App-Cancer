@@ -1,4 +1,4 @@
-CancerDetectApp: Streamlit ML Diagnostic Tool 🩺📊
+##CancerDetectApp: Streamlit ML Diagnostic Tool 🩺📊
 
 📌 Description du projet
 
