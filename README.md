@@ -51,8 +51,8 @@ matplotlib / seaborn / plotly (visualisations, selon ce que tu as utilisé)
 │
 │── README.md # Documentation du projet
 │── main.py # Script racine (point d’entrée alternatif)
-│── requirements.txt # Dépendances Python```
-
+│── requirements.txt # Dépendances Python
+````
 ## 🎯 Objectif pédagogique
 
 Ce projet est à vocation éducative et démonstrative.
