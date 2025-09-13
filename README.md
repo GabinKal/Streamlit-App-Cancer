@@ -37,13 +37,21 @@ matplotlib / seaborn / plotly (visualisations, selon ce que tu as utilisé)
 
 Streamlit-App-Cancer/
 │── app/
-│   ├── main.py              # Script principal Streamlit
-│   ├── model/
-│   │   └── model.pkl        # Modèle ML sauvegardé
-│   └── utils/               # Fonctions auxiliaires
+│ └── main.py # Script principal Streamlit
 │
-│── requirements.txt         # Dépendances Python
-│── README.md                # Documentation du projet
+│── asset/
+│ └── style.css # Feuille de style personnalisée
+│
+│── data/
+│ └── data.csv # Jeu de données utilisé pour l’entraînement/test
+│
+│── model/
+│ ├── model.pkl # Modèle ML sauvegardé
+│ └── scaler.pkl # Scaler sauvegardé (normalisation des features)
+│
+│── README.md # Documentation du projet
+│── main.py # Script racine (point d’entrée alternatif)
+│── requirements.txt # Dépendances Python
 
 ## 🎯 Objectif pédagogique
 
