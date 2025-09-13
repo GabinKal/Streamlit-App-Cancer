@@ -1,5 +1,8 @@
 # CancerDetectApp: Streamlit ML Diagnostic Tool 🩺📊
 
+## Link 🩺: 
+https://app-cancer-predict-fwd3z4r4bkkjx7fntxp6bk.streamlit.app/
+
 ## 📌 Description du projet
 
 CancerDetectApp est une application interactive développée avec Streamlit qui permet de prédire la présence d’une tumeur bénigne ou maligne à partir de données médicales.
