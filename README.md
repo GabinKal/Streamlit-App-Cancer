@@ -35,7 +35,7 @@ matplotlib / seaborn / plotly (visualisations, selon ce que tu as utilisé)
 
 ## 📂 Structure du projet
 
-Streamlit-App-Cancer/
+```Streamlit-App-Cancer/
 │── app/
 │ └── main.py # Script principal Streamlit
 │
@@ -51,7 +51,7 @@ Streamlit-App-Cancer/
 │
 │── README.md # Documentation du projet
 │── main.py # Script racine (point d’entrée alternatif)
-│── requirements.txt # Dépendances Python
+│── requirements.txt # Dépendances Python```
 
 ## 🎯 Objectif pédagogique
 
